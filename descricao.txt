@@ -1,0 +1,3 @@
+Esse código busca todos os preços das áreas procuradas, 
+por exemplo: casa a venda ou casa pra alugar. 
+E organiza em uma tabela para que fique mais fácil de visualizar.
